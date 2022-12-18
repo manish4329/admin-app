@@ -1,0 +1,5 @@
+{
+    "npm.enableRunFromFolder": true,
+    "explorer.compactFolders": false,
+    "prettier.bracketSameLine": true
+}
